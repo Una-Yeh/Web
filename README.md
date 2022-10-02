@@ -10,7 +10,8 @@
 
 ## 課程筆記區
 
-- week1
+- week1:
+  - [1/16簡報](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## 作業繳交區
 
