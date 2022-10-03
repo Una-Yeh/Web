@@ -11,12 +11,15 @@
 ## 課程筆記區
 
 - week1:
-    > [1/16簡報](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
-
-    > [1/16課程錄影](https://www.youtube.com/watch?v=5A1kyY9VrR0)
+    > [9/5簡報](https://docs.google.com/presentation/d/e/2PACX-1vQeq6j0QLtkRYz4qBJMG4KOC34eEWbWHJlhfWm4eaZqg_PfCynecuaul_2zMMc_7muZ5qFQFI_MAc3z/pub?start=false&loop=false&delayms=3000&slide=id.p)
+    > [9/5課程錄影](https://www.youtube.com/watch?v=5A1kyY9VrR0)
 
 - week2:
+    > [9/12簡報](https://docs.google.com/presentation/d/e/2PACX-1vTDvYn3QV46gLMrZyRTLcVC_ZLSExGKp2NKSmynOjCl1TkSpo3l3objKNUJzvgniLzss6jtdrtxsPf4/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## 作業繳交區
+
+- 作業一:
+    > [Web1](https://youtu.be/hqFLz4hYiRs)
 
 ## 期末專題區
