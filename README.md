@@ -30,6 +30,12 @@
 - week6:
     > [10/11簡報](https://docs.google.com/presentation/d/e/2PACX-1vQwXzwsXpz6GtsB2y1adorvi6a0OD3nXORh2g2nnER3YYPWsPKympVULtEOnMLSB4HZOcnsxnmdB1hg/pub?start=false&loop=false&delayms=3000&slide=id.p)
     
+- week7:
+    > [10/18簡報](https://docs.google.com/presentation/d/e/2PACX-1vSSEM1SXvM4t0wwpSt9oNdG5uNm30FSAPNl6wvtoeexWk5w38FqFwVsuLGKIjWp04Tu_DZVNjU2ebjx/pub?start=false&loop=false&delayms=3000&slide=id.p)    
+
+- week8:
+    > [10/25簡報](https://docs.google.com/presentation/d/e/2PACX-1vQy5r-MJNlBQzTtEEuDssJh2BOOOT6Yh2dDxdSHtDF2BtdXAgY4GECs_48o7JvCpIVVyw4Kxz3bwlRz/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
 ## 作業繳交區
 
 - 作業一:
@@ -39,5 +45,9 @@
 - 作業二:
 
     > [Web2](https://youtu.be/Bj-MMHDBM2M)
+
+- 作業三:
+
+    > [AWS-S3&EC2](https://youtu.be/bZwVMmDfP-k)
 
 ## 期末專題區
