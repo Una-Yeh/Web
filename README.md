@@ -50,4 +50,8 @@
 
     > [AWS-S3&EC2](https://youtu.be/bZwVMmDfP-k)
 
+- 作業四:
+
+    > [AWS-IAM&VPC](https://youtu.be/fJ9bvp5JaXc)
+
 ## 期末專題區
