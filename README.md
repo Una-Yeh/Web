@@ -54,4 +54,8 @@
 
     > [AWS-IAM&VPC](https://youtu.be/fJ9bvp5JaXc)
 
+- 作業五:
+
+    > [AWS-DynamoDB&RDS&S3](https://youtu.be/zXZIIXu7s18)
+
 ## 期末專題區
